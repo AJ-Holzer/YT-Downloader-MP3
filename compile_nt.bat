@@ -1,1 +1,1 @@
-pyinstaller --onefile --name="YouTube-Downloader" main.py
+pyinstaller --onefile --name="YouTube-Downloader-MP3" main.py
