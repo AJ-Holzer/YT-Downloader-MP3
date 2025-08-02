@@ -1,5 +1,7 @@
 /.history/
 /.vscode/
 /.trunk/
+/YT-Downloads/
 *test*
 *.spec
+*.pyc
