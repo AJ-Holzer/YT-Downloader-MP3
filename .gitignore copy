@@ -1,0 +1,9 @@
+/.vscode/
+/.mypy_cache/
+/.history/
+/storage/
+/build/
+*test*
+__pycache__/
+*.spec
+*.exe

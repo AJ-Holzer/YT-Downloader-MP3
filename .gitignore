@@ -1,3 +1,5 @@
 /.history/
 /.vscode/
 /.trunk/
+*test*
+*.spec
